@@ -26,7 +26,7 @@ export default function HomePage() {
           Desea recibir información de nuestra newsletter?
         </p>
         <span>
-          <input type="submit" placeholder="Next" />
+          <input type="submit" value={"NEXT"} />
         </span>
       </form>
     </>
